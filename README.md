@@ -1,8 +1,17 @@
-# ABOUT
-Hello! My name is João, I am a full-stack Software Enginner, a digital privacy advocate and a videogame geek. Currently Head of Development at rabbit mobile.
 
-# BACKGROUND
+<h1 align="center">
+  <br>
+  <a href="https://joaosantos.pt"><img src="https://joaosantos.pt/img/avatar3.jpg" style="border-radius: 100px;" alt="Profile Picture" width="200"></a>
+  <br>
+  Hello. I'm João.
+  <br>
+</h1>
 
-I was born in Madeira Island, Portugal on the 25th of October 1988 and lived there until I moved to Lisbon, Portugal in 2006 to study Electronic and Computer Engineering. Given my eagerness to tinker in different areas, this degree was the perfect match, as it allowed me to learn about Hardware and Software and how everything should work together as one.
+<h4 align="center">A Software Engineer by trade.</h4>
+<h3 align="center">Madeira. Portugal 🇵🇹</h3>
 
-While doing my master thesis (2010) I started an internship at a company that built iOS applications which was an eye opener for me. Mobile apps, which were hugely pushed forward at the time by the iPhone, was both an exciting and challenging world to be in. The internship enabled me to improve my coding skills and to get the first contact with the professional world. A couple of years later I moved to Frankfurt, Germany to work at rabbit mobile, a digital agency which focuses on mobile and web solutions for enterprises. I started there as a Software Engineer, and eventually moved back to Lisbon one year later, became Head of Development and am responsible for all the development process in the company.
+## Summary
+
+I'm an MSc in Computer and Electronics Engineering, with 14+ years experience in architecting, managing and building mobile, web and backend applications.
+
+I build agentic AI applications. Extensive experience in building production grade iOS applications with Swift and Objective-C. When it comes to web TypeScript and Angular is my world. I glue them together with NodeJS on the server, with MySQL and MongoDB as my persistent memory. I deploy it all using Docker.
